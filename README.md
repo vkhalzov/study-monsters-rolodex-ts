@@ -1,3 +1,11 @@
+# Monsters Rolodex (TypeScript) Study Project
+
+The project is based on [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) course at [Udemy](https://www.udemy.com/). 
+
+This is a TypeScript version of the https://github.com/vkhalzov/study-monsters-rolodex.
+
+Uses [JSONPlaceholder](https://jsonplaceholder.typicode.com/), [robohash](https://robohash.org/) and [Google Fonts](https://fonts.google.com/) 3rd party services.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
